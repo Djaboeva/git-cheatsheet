@@ -3,4 +3,42 @@ h1 {
     background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
 }
-h2 {font-family: Arial, Helvetica, sans-serif;}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 114, 94);
+
+ }
+
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.white_box {
+    border: 3px solid rgba(0, 0, 255, 0.301);
+    width: 960px;
+    height: 170px;
+    margin: 0 auto;
+    text-align: center;
+}
+.red_box {
+    width: 295px;
+    height: 150px;
+    margin: 10px;
+    background-color: red;
+    display: inline-block;
+}
+.yellow_box {
+    width: 295px;
+    height: 150px;
+    margin: 10px;
+    background-color: yellow;
+    display: inline-block;
+}
+.green_box {
+    width: 295px;
+    height: 150px;
+    margin: 10px;
+    background-color: green;
+    display: inline-block;
+}
